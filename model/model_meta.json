@@ -1,0 +1,31 @@
+{
+  "features": [
+    "bedrooms",
+    "bathrooms",
+    "car_spaces",
+    "size_m2",
+    "size_is_land",
+    "total_rooms",
+    "bath_per_bed",
+    "sale_month",
+    "desc_word_count",
+    "desc_exclaims",
+    "kw_renovated",
+    "kw_original",
+    "kw_pool",
+    "kw_view",
+    "kw_transport",
+    "kw_school",
+    "kw_luxury",
+    "kw_investment",
+    "kw_granny_flat",
+    "kw_north",
+    "suburb",
+    "property_type",
+    "sale_method"
+  ],
+  "model": "Gradient Boosting",
+  "cv_mape": 14.385824314640303,
+  "cv_resid_sd_log": 0.19058539041139713,
+  "n_train": 102
+}
